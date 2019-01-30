@@ -522,3 +522,285 @@ Stack trace:
 #3 [internal function]: yii\base\ErrorHandler->handleFatalError()
 #4 {main}
   thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:15:54 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:15:54 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:15:54 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:15:55 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:15:55 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:15:55 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:15:59 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:15:59 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:15:59 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:33:55 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:33:55 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:33:57 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:33:57 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:04 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:04 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:06 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:06 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:06 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:34:09 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:09 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:09 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:34:12 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:34:12 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:36:15 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:36:15 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:36:22 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:36:22 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:36:22 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:36:49 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:36:49 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:52 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:52 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:52 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:37:55 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:55 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:55 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:37:55 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:55 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:37:55 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:38:21 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:38:21 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:38:21 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:38:26 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:38:26 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:38:26 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:38:26 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:38:26 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:38:26 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:40:16 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:40:16 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:40:16 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 13:40:16 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:40:16 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 13:40:16 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 14:08:16 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 14:08:16 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 14:08:16 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
+[30-Jan-2019 14:08:17 America/Chicago] PHP Warning:  Uncaught yii\base\ErrorException: require(/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php): failed to open stream: No such file or directory in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php:26
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): yii\base\ErrorHandler->handleError(2, 'require(/home2/...', '/home2/sduff2/p...', 26, Array)
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php(26): require()
+#2 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 14:08:17 America/Chicago] PHP Fatal error:  main(): Failed opening required '/home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/../vendor/autoload.php' (include_path='.:/opt/php70/lib/php') in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/frontend/web/index.php on line 26
+[30-Jan-2019 14:08:17 America/Chicago] PHP Fatal error:  Uncaught yii\web\HeadersAlreadySentException: Headers already sent in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 414. in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/ErrorHandler.php(135): yii\web\Response->send()
+#2 /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/base/ErrorHandler.php(262): yii\web\ErrorHandler->renderException(Object(yii\base\ErrorException))
+#3 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#4 {main}
+  thrown in /home2/sduff2/public_html/yii.drawyourpets.com/yii-advanced/vendor/yiisoft/yii2/web/Response.php on line 366
